@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: plccp
+Upstream-Contact: plccp developers <https://github.com/ourPLCC/plccp>
+Source: https://github.com/ourPLCC/plccp
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
