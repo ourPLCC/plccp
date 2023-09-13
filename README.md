@@ -29,3 +29,7 @@ Open a new terminal. Now plcc commands (e.g., plccmk, scan, parse, rep).
 
 You'll need to run this each time you start a GitPod workspace if you
 need plcc commands in that workspace.
+
+## Use REUSE.software to manage licenses
+
+<https://reuse.software/>
